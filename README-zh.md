@@ -15,6 +15,10 @@
 
 ![add-backquote-menu](https://www.zhangaoo.com/upload/2018/11/uc1ilvvltah8rqauhtj09u9ttm.gif)
 
+## 安装
+
+![install](https://www.zhangaoo.com/upload/2018/11/1nk66cbtdeh2ioc7sg9mfrgm11.png)
+
 ## Release Notes
 
 ### 0.0.1
