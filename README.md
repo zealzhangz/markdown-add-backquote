@@ -9,11 +9,11 @@ Use shortcut keys to add backquotes in Markdown:
 - Mac: `cmd+d`
 - Windows: `ctrl+d`
 
-![add-backquote](add-backquote.gif)
+![add-backquote](https://www.zhangaoo.com/upload/2018/11/s5ejcdgl4kiunovlvnp8bnpuq0.gif)
 
 Use menus to add backquotes in Markdown:
 
-![add-backquote-menu](add-backquote-menu.gif)
+![add-backquote-menu](https://www.zhangaoo.com/upload/2018/11/uc1ilvvltah8rqauhtj09u9ttm.gif)
 
 ## Release Notes
 
@@ -25,9 +25,7 @@ First version
 
 If you have better suggestions, you can leave a message on `Github` or my personal blog, and more features will be added later.
 
-* [zealzhangz Github](https://github.com/zealzhangz)
-* [zealzhangz Blog](https://zhangaoo.com)
+* [zealzhangz Github](https://github.com/zealzhangz/markdown-add-backquote)
+* [zealzhangz Blog](https://www.zhangaoo.com/article/markdown-add-backquote)
 
 **Enjoy!**
-
-
