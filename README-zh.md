@@ -9,11 +9,11 @@
 - Mac: `cmd+d`
 - Windows: `ctrl+d`
 
-![add-backquote](add-backquote.gif)
+![add-backquote](https://www.zhangaoo.com/upload/2018/11/s5ejcdgl4kiunovlvnp8bnpuq0.gif)
 
 使用菜单添加:
 
-![add-backquote-menu](add-backquote-menu.gif)
+![add-backquote-menu](https://www.zhangaoo.com/upload/2018/11/uc1ilvvltah8rqauhtj09u9ttm.gif)
 
 ## Release Notes
 
@@ -25,7 +25,7 @@
 
 如果有更好的建议可以在 `Github` 或者个人博客留言，后续还会添加更多的功能
 
-* [zealzhangz Github](https://github.com/zealzhangz)
-* [zealzhangz Blog](https://zhangaoo.com)
+* [zealzhangz Github](https://github.com/zealzhangz/markdown-add-backquote)
+* [zealzhangz Blog](https://www.zhangaoo.com/article/markdown-add-backquote)
 
 **Enjoy!**
