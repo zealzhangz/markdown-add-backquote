@@ -18,12 +18,10 @@ Use shortcut keys to add backquotes in Markdown:
 
 ## Release Notes
 0.0.1 (2018/11/11)
-- Initail version
+- First version
 
 ### 0.0.2
 - Add auto generated code block backquote function.
-
-First version
 
 ## For more information
 
