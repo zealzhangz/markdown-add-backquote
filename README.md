@@ -19,6 +19,7 @@ Use shortcut keys to add backquotes in Markdown:
 ## Release Notes
 0.0.1 (2018/11/11)
 - First version
+
 0.0.2 (2018/11/13)
 - Add auto generated code block backquote function.
 
