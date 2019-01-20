@@ -23,8 +23,14 @@ Use shortcut keys to add backquotes in Markdown:
 0.0.2 (2018/11/13)
 - Add auto generated code block backquote function.
 
-### 0.0.3
+0.0.3 (2019/01/01)
 - Fix bugs that insert code block newlines in the middle of text.
+
+0.0.4 (2019/01/01)
+- Change README
+
+### 0.0.5
+- Fix some bugs
 
 ## For more information
 
